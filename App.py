@@ -1,18 +1,14 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 import numpy as np
 import pandas as pd
 from flask import Flask, request, jsonify, render_template
 from flask_ngrok import run_with_ngrok
-
 import pickle
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
-
 from flask_cors import CORS
 model = model = pickle.load(open("model", "rb"))
 app = Flask(__name__)
