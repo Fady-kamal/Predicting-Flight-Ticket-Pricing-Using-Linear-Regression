@@ -12,8 +12,8 @@ from sklearn.preprocessing import StandardScaler
 from flask_cors import CORS
 model = model = pickle.load(open("model", "rb"))
 app = Flask(__name__)
-run_with_ngrok(app)
-#CORS(app)
+#run_with_ngrok(app)
+CORS(app)
 
 @app.route("/") #the home page
 def home():
