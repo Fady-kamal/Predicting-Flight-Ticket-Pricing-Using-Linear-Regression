@@ -5,4 +5,5 @@ flask
 matplotlib
 gunicorn
 seaborn
-flask_ngrok
+flask-ngrok
+
