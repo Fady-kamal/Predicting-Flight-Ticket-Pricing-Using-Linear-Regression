@@ -1,7 +1,7 @@
 # Predicting-Flight-Ticket-Pricing-Using-Machine-Learning
 
 ## Table of contents
-* [Introduction ](#Introduction)
+* [Introduction](#Introduction)
 * [Description of The Dataset](#Description of The Dataset)
 * [Setup](#setup)
 ## Introduction 
