@@ -15,7 +15,7 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 <img src = "https://i.imgur.com/cHOkO7a.png" >
 
 ## Features 
-* `Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:` The date when the journey starts from the source.
+* `__Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:__` The date when the journey starts from the source.
 * __Out_Time:__ The time when the journey starts from the source
 * __Out_Cities:__ The city at which the journey starts from the source
 * __Out_Airline:__ The name of the airline when the journey travels only to the destination
