@@ -26,8 +26,8 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 * __Return_Travel_Time:__ Total duration of the flight to travel back to the source
 * __Out_Journey_Type:__ The type of the journey during travelling to the destination. It could be direct or connecting
 * __Return_Journey_Type:__ The type of the journey during travelling back to the source. It could be direct connecting
-* __Out_Stop_Cities:__ The number of intermediate stop cities of the journey during travelling to the destination
-* __Return_Stop_Cities:__ The number of intermediate stop cities of the journey during travelling to the source
+* __Out_Stop_Cities:__ The intermediate stop cities of the journey during travelling to the destination
+* __Return_Stop_Cities:__ The intermediate stop cities of the journey during travelling to the source
 * __Price:__ The price of the ticket
 * __timestamp:__ The date and time for webscarpping the information from the website
 * __sort:__ sorting based on the quality of the flight journey
