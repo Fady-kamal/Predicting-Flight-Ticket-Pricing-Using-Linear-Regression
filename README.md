@@ -9,7 +9,7 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 
 ## Dataset Description
  * The dataset is about the prices of the flights for various airlines based on some features and conditions
- * the dat is collected from [https://www.kayak.ae/](KAYAK) which is an american travel agency for booking 
+ * the dat is collected from [https://www.kayak.ae/](#KAYAK) which is an american travel agency for booking 
 
 <img src = "https://i.imgur.com/cHOkO7a.png" >
 
