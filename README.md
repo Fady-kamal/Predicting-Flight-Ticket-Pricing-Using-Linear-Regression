@@ -48,4 +48,25 @@ We put the model into production by creating web application to predict the opti
 
 ### Packages 
 
-The required packages used for the web application to delploy it on [Heroku](https://www.heroku.com/)
+The required packages used for the web application to delploy it on [Heroku](https://www.heroku.com/) is the following: 
+
+* Flask-Cors==3.0.10
+* flask-ngrok==0.0.25
+* Flask==1.1.2
+* gunicorn==20.1.0
+* itsdangerous==2.0.1
+* Jinja2==2.11.3
+* MarkupSafe==1.1.1
+* Werkzeug==2.0.2
+* numpy==1.20.3
+* scipy==1.7.1
+* scikit-learn==0.24.2
+* matplotlib==3.4.3
+* pandas==1.3.4
+* flasgger==0.9.5
+* seaborn==0.11.2
+* emoji==1.6.3
+* streamlit==1.5.0
+* gevent==21.8.0
+
+
