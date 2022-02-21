@@ -15,7 +15,7 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 <img src = "https://i.imgur.com/cHOkO7a.png" >
 
 ## Features 
-* `__Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:__` The date when the journey starts from the source.
+* __Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:__ The date when the journey starts from the source.
 * __Out_Time:__ The time when the journey starts from the source
 * __Out_Cities:__ The city at which the journey starts from the source
 * __Out_Airline:__ The name of the airline when the journey travels only to the destination
@@ -34,17 +34,9 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 * __sort:__ sorting based on the quality of the flight journey
 
 
-## Packages 
+## Deployment 
+We put the model into production by creating web application to predict the optimal time to book the flight price with minimum price.
+### Demo 
 
-* Flask-Cors==3.0.10
-* flask-ngrok==0.0.25
-* Flask==1.1.2
-* gunicorn==20.1.0
-* Jinja2==2.11.3
-* numpy==1.20.3
-* scipy==1.7.1
-* scikit-learn==0.24.2
-* matplotlib==3.4.3
-* pandas==1.3.4
-* seaborn==0.11.2
+
 
