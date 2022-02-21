@@ -14,20 +14,20 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 <img src = "https://i.imgur.com/cHOkO7a.png" >
 
 ## Features 
-* Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year: The date when the journey starts from the source.
-* Out_Time: The time when the journey starts from the source
-* Out_Cities: The city at which the journey starts from the source
-* Out_Airline: The name of the airline when the journey travels only to the destination
-* Return_Date, Return_Day, Return_Weekday, Return_Month, Return_Year: The date when someone travels back to its source
-* Return_Time: The time when the journey travels back the source
-* Return_Cities: The city at which the journey travels back to the source
-* Return_Airline: The name of the airline when the journey travels back to the sources
-* Out_Travel_Time: Total duration of the flight to travel only to the destination
-* Return_Travel_Time: Total duration of the flight to travel back to the source
-* Out_Journey_Type The type of the journey during travelling to the destination. It could be direct or connecting
-* Return_Journey_Type: The type of the journey during travelling back to the source. It could be direct connecting
-* Out_Stop_Cities: The number of intermediate stop cities of the journey during travelling to the destination
-* Return_Stop_Cities: The number of intermediate stop cities of the journey during travelling to the source
-* Price: The price of the ticket
-* timestamp: The date and time for webscarpping the information from the website
-* sort: sorting based on the quality of the flight journey
+* __Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:__ The date when the journey starts from the source.
+* __Out_Time:__ The time when the journey starts from the source
+* __Out_Cities:__ The city at which the journey starts from the source
+* __Out_Airline:__ The name of the airline when the journey travels only to the destination
+* __Return_Date, Return_Day, Return_Weekday, Return_Month, Return_Year:__ The date when someone travels back to its source
+* __Return_Time:__ The time when the journey travels back the source
+* __Return_Cities:__ The city at which the journey travels back to the source
+* __Return_Airline:__ The name of the airline when the journey travels back to the sources
+* __Out_Travel_Time:__ Total duration of the flight to travel only to the destination
+* __Return_Travel_Time:__ Total duration of the flight to travel back to the source
+* __Out_Journey_Type:__ The type of the journey during travelling to the destination. It could be direct or connecting
+* __Return_Journey_Type:__ The type of the journey during travelling back to the source. It could be direct connecting
+* __Out_Stop_Cities:__ The number of intermediate stop cities of the journey during travelling to the destination
+* __Return_Stop_Cities:__ The number of intermediate stop cities of the journey during travelling to the source
+* __Price:__ The price of the ticket
+* __timestamp:__ The date and time for webscarpping the information from the website
+* __sort:__ sorting based on the quality of the flight journey
