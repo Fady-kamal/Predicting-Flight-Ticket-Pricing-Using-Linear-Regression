@@ -37,7 +37,10 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 
 ## Deployment 
 We put the model into production by creating web application to predict the optimal time to book the flight price with minimum price.
+
 ### Demo 
 
+`Link:` https://predicting-flight-ticket-price.herokuapp.com/
 
+<img src = "https://i.imgur.com/3SLSjPs.png">
 
