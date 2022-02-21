@@ -44,3 +44,7 @@ We put the model into production by creating web application to predict the opti
 
 <img src = "https://i.imgur.com/3SLSjPs.png">
 
+
+### Packages 
+
+The required packages used for the web application to delploy it on [Heroku](https://www.heroku.com/)
