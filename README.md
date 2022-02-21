@@ -6,7 +6,7 @@
 * [Features](#Features)
 * [Packages](#Packages)
 ## Introduction 
-Nowadays, it is difficult to predict the optimal time to buy the ticket with a minmum price since prices change dynamically due to different conditions. As a result of that, we use machine learning to fix the problem to help customers predict the optmal time to buy a ticket with minmum price
+Nowadays, it is difficult to predict the optimal time to buy the ticket with a minmum price since prices change dynamically due to different conditions. As a result of that, we use machine learning to fix the problem to help customers predict the optmal time to buy a ticket with minmum price.
 
 ## Dataset Description
  * The dataset is about the prices of the flights for various airlines based on some features and conditions
@@ -15,7 +15,7 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 <img src = "https://i.imgur.com/cHOkO7a.png" >
 
 ## Features 
-* __Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:__ The date when the journey starts from the source.
+* `Out_Date, Out_Day, Out_Weekday, Out_Month, out_Year:` The date when the journey starts from the source.
 * __Out_Time:__ The time when the journey starts from the source
 * __Out_Cities:__ The city at which the journey starts from the source
 * __Out_Airline:__ The name of the airline when the journey travels only to the destination
@@ -39,6 +39,7 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 * Flask-Cors==3.0.10
 * flask-ngrok==0.0.25
 * Flask==1.1.2
+* gunicorn==20.1.0
 * Jinja2==2.11.3
 * numpy==1.20.3
 * scipy==1.7.1
@@ -46,8 +47,4 @@ Nowadays, it is difficult to predict the optimal time to buy the ticket with a m
 * matplotlib==3.4.3
 * pandas==1.3.4
 * seaborn==0.11.2
- 
 
-
-
-© 2022 GitHub, Inc.
